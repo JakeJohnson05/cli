@@ -1,5 +1,5 @@
 {
-  "name": "@jakejohnson801/sequelize-cli",
+  "name": "sequelize-cli",
   "version": "6.1.0",
   "description": "The Sequelize CLI",
   "bin": {
