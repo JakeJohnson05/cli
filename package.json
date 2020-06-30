@@ -1,5 +1,5 @@
 {
-  "name": "sequelize-cli",
+  "name": "@jakejohnson801/sequelize-cli",
   "version": "6.1.0",
   "description": "The Sequelize CLI",
   "bin": {
@@ -78,6 +78,10 @@
     {
       "name": "Sushant Dhiman",
       "email": "sushantdhiman@outlook.com"
+    },
+    {
+      "name": "Jake Johnson",
+      "email": "jakejohnson801@outlook.com"
     }
   ],
   "license": "MIT",
